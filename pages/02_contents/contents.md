@@ -8,7 +8,8 @@ Det er mye forskjellig vi kan legge inn. For eksempel har vi en relativt enkel s
 ```
 {% include youtubePlayer.html id="LF4JNPfNGgs" %}
 ```
-Det vil i praksis føre til at vi ser video slik som dette:
+
+I `id`-feltet legger man youtube-videoen sin id slik den fremkommer i url'en på youtube. Det vil i praksis føre til at vi ser video slik som dette:
 
 {% include youtubePlayer.html id="LF4JNPfNGgs" %}
 
